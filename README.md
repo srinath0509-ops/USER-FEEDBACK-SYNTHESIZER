@@ -77,7 +77,7 @@ as independent pieces of information, the system creates connections between the
 
 For example:
 
-```text
+
 User Feedback
       ↓
 Feedback Processing
@@ -93,7 +93,7 @@ Pattern Detection
 AI Synthesis
       ↓
 Actionable Insights
-```
+
 
 This allows the system to build a continuously evolving understanding of feedback.
 
@@ -178,7 +178,7 @@ The final output is designed to help product teams understand **what users are e
 
 ## 🏗️ System Architecture
 
-```text
+
                     ┌─────────────────────┐
                     │   User Feedback     │
                     └──────────┬──────────┘
@@ -213,7 +213,6 @@ The final output is designed to help product teams understand **what users are e
                     ┌─────────────────────┐
                     │ Actionable Insights │
                     └─────────────────────┘
-```
 
 ---
 
@@ -255,7 +254,7 @@ The final output is designed to help product teams understand **what users are e
 
 ## 📂 Project Structure
 
-```text
+
 USER-FEEDBACK-SYNTHESIZER/
 │
 ├── backend/
@@ -269,7 +268,7 @@ USER-FEEDBACK-SYNTHESIZER/
 ├── README.md
 ├── requirements.txt
 └── ...
-```
+
 
 > Large generated datasets are intentionally excluded from GitHub when they exceed GitHub's individual file-size limit.
 
